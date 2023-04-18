@@ -1,6 +1,6 @@
 {
 "temperatura_min":20,
 "temperatura_max":30,
-"buzzer_ativo":true,
+"buzzer_ativo":false,
 "mensagem_buzzer":"Temperatura fora da faixa normal"
 }
